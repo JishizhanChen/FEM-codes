@@ -1,6 +1,8 @@
-# FEM-codes
+# Finite element moddelling (FEM) material property optimisation codes
 
-Run the main file FEMOptimisation.m for FEM optimisation pipeline, and it will run the rest functions.
+These codes allows you to determine the optimal combination of Elastic modulus and Poisson Ratio in your FEM using digital volume correlation (DVC) data.
+
+Run the main code FEMOptimisation.m for executing FEM optimisation pipeline, and it will run the rest functions.
 
 Replace with all file paths with yours before running.
 
